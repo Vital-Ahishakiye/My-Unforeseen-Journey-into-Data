@@ -1,0 +1,8 @@
+# My Unforeseen Journey into Data
+In 2016, fresh out of high school, I faced a harsh reality - limited job opportunities and no prior experience. Financial difficulties loomed large. However, a temporary role with a telecommunications company offered a lifeline. There, I contributed as a field technician, laying fiber optic cables from Rubavu town to BRALIRWA, a Rwandan brewing company.
+
+While not glamorous, this role provided a crucial escape from negativity. Despite the low salary (2500 RWF), it offered a much-needed mental break. However, to cope with the pressure, I turned to sports betting. My occasional wins were far outweighed by consistent losses (approximately a 1:7 win-to-loss ratio).
+
+A turning point arrived when I decided to leverage this experience as a learning opportunity. I embarked on a data-driven approach to address my gambling habit. Taking control, I created a simple data collection system in my notebook. This system captured two key data points: my bets and my winnings. After a year of diligently recording this data, a clear pattern emerged. My total losses (74,200 RWF) far outweighed the wins (roughly 16,000 RWF). Now, I realized that I lost more than 4.5 times what I earned over this sample taken in a year.
+
+This experience served as my unforeseen introduction to data science. By quantifying the financial impact of my actions, I not only gained control over a bad habit but also discovered the power of data analysis. This story underscores the transformative potential of data, even in its most basic form. It doesn't require advanced tools or expertise; even fundamental data collection and analysis can empower us to make informed decisions and overcome challenges.
